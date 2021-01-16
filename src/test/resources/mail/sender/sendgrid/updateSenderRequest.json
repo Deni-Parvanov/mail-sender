@@ -1,0 +1,13 @@
+{
+  "from": {
+    "name": "Jane Doe",
+    "email": "jane.doe@mycompany.com"
+  },
+  "reply_to": {
+    "name": "Jane Doe",
+    "email": "jane.doe@mycompany.com"
+  },
+  "address": "Oxford street 23",
+  "city": "Dublin",
+  "country": "Ireland"
+}

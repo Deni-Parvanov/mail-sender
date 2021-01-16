@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: Sendgrid Mail Sender
+
+  lifecycle:
+    timeout-per-shutdown-phase: 30s
+
+server:
+  shutdown: graceful
+
+sendgrid:
+  rest-base-url: https://api.sendgrid.com/v3/
+  api-key: ${SENDGRID_API_KEY}
+  connections: 10
+  timeout: 1m

@@ -1,0 +1,25 @@
+{
+  "id": 1325731,
+  "nickname": "testNickname",
+  "from": {
+    "email": "noreply@johndoe.co",
+    "name": "John Doe"
+  },
+  "reply_to": {
+    "email": "john.doe@mycompany.com",
+    "name": ""
+  },
+  "address": "mycompany.com",
+  "address_2": "",
+  "city": "Edmonton",
+  "state": "",
+  "zip": "",
+  "country": "CAN",
+  "verified": {
+    "status": false,
+    "reason": null
+  },
+  "updated_at": 1610780408,
+  "created_at": 1610802008,
+  "locked": false
+}

@@ -1,0 +1,8 @@
+{
+  "errors": [
+    {
+      "message": "The Sender Identity is already verified.  No email sent.",
+      "field": ""
+    }
+  ]
+}

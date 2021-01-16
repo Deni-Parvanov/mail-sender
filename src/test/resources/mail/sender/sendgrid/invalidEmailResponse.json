@@ -1,0 +1,12 @@
+{
+  "errors": [
+    {
+      "message": "from.email is not a valid email address.",
+      "field": "from.email"
+    },
+    {
+      "message": "reply_to.email is not a valid email address.",
+      "field": "reply_to.email"
+    }
+  ]
+}

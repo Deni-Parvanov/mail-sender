@@ -1,0 +1,14 @@
+{
+  "nickname": "testNickname",
+  "from": {
+    "name": "John Doe",
+    "email": "john.doe@mycompany.com"
+  },
+  "reply_to": {
+    "name": "John Doe",
+    "email": "john.doe@mycompany.com"
+  },
+  "address": "",
+  "city": "Edmonton",
+  "country": "Canada"
+}

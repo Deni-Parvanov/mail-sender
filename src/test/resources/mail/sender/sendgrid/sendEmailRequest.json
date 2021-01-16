@@ -1,0 +1,32 @@
+{
+  "personalizations": [
+    {
+      "to": [
+        {
+          "email": "john.doe@mycompany.com"
+        }
+      ],
+      "dynamic_template_data": {
+        "subject": "Hello, World!",
+        "key": "value",
+        "senderSignatureName": "John Doe"
+      }
+    }
+  ],
+  "from": {
+    "email": "noreply@johndoe.com",
+    "name": "John Doe"
+  },
+  "reply_to": {
+    "email": "noreply@johndoe.com",
+    "name": "John Doe"
+  },
+  "template_id": "test-template-id",
+  "attachments": [
+    {
+      "content": "anyBase64Content",
+      "type": "application/pdf",
+      "filename": "some.pdf"
+    }
+  ]
+}

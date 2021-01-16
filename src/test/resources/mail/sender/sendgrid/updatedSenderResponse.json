@@ -1,0 +1,25 @@
+{
+  "id": 1325731,
+  "nickname": "testNickname",
+  "from": {
+    "email": "jane.doe@mycompany.com",
+    "name": "Jane Doe"
+  },
+  "reply_to": {
+    "email": "jane.doe@mycompany.com",
+    "name": "Jane Doe"
+  },
+  "address": "",
+  "address_2": "",
+  "city": "Dublin",
+  "state": "",
+  "zip": "",
+  "country": "Ireland",
+  "verified": {
+    "status": true,
+    "reason": null
+  },
+  "updated_at": 1603887674,
+  "created_at": 1602687674,
+  "locked": false
+}
